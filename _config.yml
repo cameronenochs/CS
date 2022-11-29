@@ -1,6 +1,6 @@
 # Build Settings
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-  - jekyll-remote-theme
-title: [The title of your site]
+- jekyll-remote-theme
+title: Computer Science
 description: [A short description of your site's purpose]
